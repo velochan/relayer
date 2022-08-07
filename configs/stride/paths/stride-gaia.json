@@ -1,0 +1,16 @@
+{
+  "src": {
+    "chain-id": "STRIDE-TESTNET-2",
+    "client-id": "07-tendermint-0",
+    "connection-id": "connection-0"
+  },
+  "dst": {
+    "chain-id": "GAIA",
+    "client-id": "07-tendermint-0",
+    "connection-id": "connection-0"
+  },
+  "src-channel-filter": {
+    "rule": "allowlist",
+    "channel-list": ["channel1-0", "channel-2", "channel1-3", "channel1-4"]
+  }
+} 
