@@ -13,5 +13,5 @@
    "trusting-period": "8h",
    "output-format": "json",
    "sign-mode": "direct"
- }
+  }
 }
